@@ -1,3 +1,4 @@
+sql
 1.	Display all departments from department table.
         select * from departments;
 
